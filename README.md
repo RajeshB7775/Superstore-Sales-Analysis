@@ -1,4 +1,4 @@
-# Superstore-Sales-Analysis
+# Superstore-Sales-Analysis-Python-project
 ## Project Overview
 This project involves analyzing sales data from a Superstore to derive insights and trends using Python. The objective of this analysis is to explore the sales performance over time, detect key patterns, and provide valuable business insights that could support decision-making.
 
